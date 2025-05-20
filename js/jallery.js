@@ -97,4 +97,5 @@ const images = [
       `);
       instance.show();
     }
-  }
+}
+  
